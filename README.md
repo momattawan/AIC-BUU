@@ -1,2 +1,2 @@
-# aic-buu.github.io
+# aic-buu
 Advance Innovation Club 
